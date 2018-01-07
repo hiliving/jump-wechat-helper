@@ -3,6 +3,7 @@
 
 * 改进自java版，java算法是参考[python版本](https://github.com/wangshub/wechat_jump_game)，提升运行速度，增加随机休息时间防止被判定为作弊。
 
+![](https://github.com/hiliving/jump-wechat-helper/blob/master/screenshot/QQ%E5%9B%BE%E7%89%8720180107123948.jpg)
 > 原理：
 
 在服务中创建悬浮窗，切换到跳一跳游戏界面，获取截屏并分析棋盘的坐标，算出所需的跳跃时间。想要在其他应用界面运行shell
