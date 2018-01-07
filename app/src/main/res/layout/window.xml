@@ -18,7 +18,7 @@
         android:layout_toRightOf="@+id/startnow"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="20dp"
-        android:text="执行日志："
+        android:text="进入跳一跳界面后点击开始"
         android:textSize="13sp"
         android:id="@+id/tvlog"
         android:layout_centerVertical="true"
