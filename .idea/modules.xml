@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DDD.iml" filepath="$PROJECT_DIR$/DDD.iml" />
+      <module fileurl="file://E:\Tiaoyitiao\jump-wechat-helper\DDD.iml" filepath="E:\Tiaoyitiao\jump-wechat-helper\DDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Tiaoyitiao\jump-wechat-helper\app\app.iml" filepath="E:\Tiaoyitiao\jump-wechat-helper\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jump-wechat-helper.iml" filepath="$PROJECT_DIR$/.idea/jump-wechat-helper.iml" />
     </modules>
   </component>
 </project>

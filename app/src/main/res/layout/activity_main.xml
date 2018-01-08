@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:background="@mipmap/gb"
+    android:id="@+id/root"
     tools:context="hiliving.dev.com.ddd.MainActivity">
 
     <Button
@@ -63,5 +64,15 @@
         android:text="设备参数："
         android:id="@+id/sysmsg"
         android:visibility="gone"
+        />
+    <Button
+        android:background="@drawable/btbg"
+        android:layout_below="@+id/startServ"
+        android:layout_centerHorizontal="true"
+        android:layout_width="240dp"
+        android:layout_height="80dp"
+        android:text="！前往开启悬浮窗权限"
+        android:textSize="20sp"
+        android:id="@+id/openwd"
         />
 </RelativeLayout>
