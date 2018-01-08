@@ -21,4 +21,4 @@
 
 
 
-> 可直接下载jump-helper.apk体验
+> 可直接下载[jump-helper.apk](https://github.com/hiliving/jump-wechat-helper/raw/master/app/jump-helper.apk)体验
